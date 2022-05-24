@@ -18,14 +18,29 @@ from turtle import clear
 drive_x = r'X:\Projects'
 drive_l = r'L:\PROJECTS\APAC'
 drive_r = r'R:\\'
+# drive_r = r'R:\10-7160-00_GoldCoast_Show'
 
 
 
 if __name__ == '__main__':
 
-    for root, directories, filenames in os.walk(drive_r):
-        for directory in directories:
-            for filename in filenames:
-                if filename.endswith('.rvt'):
-                    print(directory)
-                    print('______________  ',filename)
+    # for root, directories, filenames in os.walk(drive_r):
+    #     for directory in directories:
+    #         for filename in filenames:
+    #             if filename.endswith('.rvt'):
+    #                 print(directory)
+    #                 print('______________  ',filename)
+
+
+    rvt_files = []
+    for dirpath, subdirs, files in os.walk(drive_r):
+        for x in files:
+            if x.endswith(".rvt"):
+                rf = rvt_files.append(os.path.join(dirpath, x))
+                if rf == None:
+                    print(f'none found in {dirpath}')
+                else:
+                    print(rf)
+
+    # for f in rvt_files:
+    #     print(f)
