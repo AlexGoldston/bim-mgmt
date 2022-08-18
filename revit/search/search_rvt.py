@@ -12,6 +12,7 @@ import time
 from pprint import pprint
 from pathlib import Path
 from turtle import clear
+import pandas as pd
 
 
 '''___VARIABLES____'''
@@ -44,3 +45,4 @@ if __name__ == '__main__':
 
     # for f in rvt_files:
     #     print(f)
+    
