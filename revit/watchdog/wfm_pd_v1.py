@@ -5,12 +5,13 @@ import logging
 from collections import namedtuple
 from pathlib import Path, PosixPath, PurePath, PurePosixPath, PureWindowsPath
 from subprocess import PIPE, Popen
+from turtle import clear
 from watchdog.events import FileSystemEventHandler, PatternMatchingEventHandler
 from watchdog.observers import Observer
 
 
 logging.basicConfig(
-    filename= r"C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\watchdog\log.txt",
+    filename= r"C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\revit\watchdog\log.txt",
     format= "%(asctime)s %(message)s",
     datefmt= "%m/%d/%Y %I:%M %p",
     level = logging.DEBUG,
@@ -114,7 +115,7 @@ my_event_handler.on_deleted = on_deleted
 my_event_handler.on_modified = on_modified
 my_event_handler.on_moved = on_moved
 
-path = "."
+path = r"\\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File"
 go_recursively = True
 my_observer = Observer()
 my_observer.schedule(my_event_handler, path, recursive=go_recursively)
