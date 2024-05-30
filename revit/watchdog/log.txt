@@ -1,0 +1,67 @@
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\revit\watchdog\basdasd
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\revit\watchdog
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\revit\watchdog\basdasd
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\revit\watchdog
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\objects\c1\9545c3e16352ccf3e7978c62485d0451700141
+08/19/2022 09:54 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\objects\3c\96cdb0926a697eda90f529f5f708955722f162
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\FETCH_HEAD
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\FETCH_HEAD.lock
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\FETCH_HEAD.lock
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\FETCH_HEAD
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git\FETCH_HEAD.lock
+08/19/2022 09:55 AM file created: C:\Users\Alex.Goldston\Desktop\development\python\bim mgmt\bim mgmt\.git
+08/19/2022 10:00 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New Text Document.txt
+08/19/2022 10:00 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New Text Document.txt
+08/19/2022 10:00 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New Text Document.txt
+08/19/2022 10:00 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New Text Document.txt
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:05 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:05 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\okjcnalknc
+08/19/2022 10:30 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:30 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:30 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:30 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New folder
+08/19/2022 10:30 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\52BA09C8.tmp
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\52BA09C8.tmp
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\47E02F29.tmp
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\52BA09C8.tmp
+08/19/2022 10:31 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\47E02F29.tmp
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Hello.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Hello.docx
+08/19/2022 10:31 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\OPen me.docx
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\OPen me.docx
+08/19/2022 10:31 AM file created: C:\Users\Alex.Goldston\Desktop\development
+08/19/2022 10:31 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Open me.docx
+08/19/2022 10:32 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Hello.docx
+08/19/2022 10:32 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Hello.docx
+08/19/2022 10:33 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Pen me.docx
+08/19/2022 10:33 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Pen me.docx
+08/19/2022 10:33 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Pen me.docx
+08/19/2022 10:33 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Pen me.docx
+08/19/2022 10:33 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\~$Pen me.docx
+08/19/2022 10:47 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\New File Folder
+08/19/2022 10:47 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Open me.docx
+08/19/2022 10:47 AM file created: \\pop.local\global\PROJECTS\APAC\7700-7799\7770 JSMC\00-Main Project\X-Building Design\X1-Revit\X1.1-Model\_Keynote File\Open me.docx
